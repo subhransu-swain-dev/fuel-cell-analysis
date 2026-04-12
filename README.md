@@ -42,8 +42,10 @@ This project analyzes fuel cell performance through three experiments using Pyth
 
 ## 📊 Output
 ![Experiment Graph](images/exp2_graph.png)
+![Experiment Graph](images/exp3_graph.png)
+
 ### Experiment 1
-![Exp1](images/exp1_graph.png)
+###![Exp1](images/exp1_graph.png)
 
 ### Experiment 2
 ![Exp2](images/exp2_graph.png)
