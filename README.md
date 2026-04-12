@@ -41,10 +41,10 @@ This project analyzes fuel cell performance through three experiments using Pyth
 ---
 
 ## 📊 Output
-### Experiment 1
+### Experiment 1:Basic Analysis
 ###![Exp1](images/exp1_graph.png)
 
-### Experiment 2
+### Experiment 2:Temperature Comparison
 ![Exp2](images/exp2_graph.png)
 
 ### ⚡ Experiment 3: Overpotential Losses
