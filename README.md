@@ -50,7 +50,6 @@ This project analyzes fuel cell performance through three experiments using Pyth
 - images/ → graphs  
 
 ---
-
 ## 📌 Conclusion
 Fuel cell performance depends on temperature and losses.  
 Overpotential losses significantly reduce efficiency at higher current densities.
