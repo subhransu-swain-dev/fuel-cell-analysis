@@ -6,7 +6,7 @@ Subhransu Swain
 ---
 
 ## 📌 Overview
-This project analyzes fuel cell performance through three experiments using Python.
+This project analyzes fuel cell performance through four experiments using Python.
 
 ---
 
@@ -31,6 +31,8 @@ This project analyzes fuel cell performance through three experiments using Pyth
 - Effect on fuel cell efficiency  
 
 ---
+### ⚡ Experiment 4: Tafel Plot & Exchange Current Density
+
 
 ## ⚙️ Tools Used
 - Python  
@@ -50,6 +52,8 @@ This project analyzes fuel cell performance through three experiments using Pyth
 ### ⚡ Experiment 3: Overpotential Losses
 ![Exp3](images/exp3_graph.png)
 
+### ⚡ Experiment 4: 
+![Exp4](images/exp4_graph.png)
 ---
 
 ## 📁 Structure
